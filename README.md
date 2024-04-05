@@ -26,4 +26,4 @@ Note: this also installs `pygraphviz`, another requirement.
 - `pygraphviz` (Note, this may be installed by above `conda` command)
 - `IPython`
 - `pandas`
-- 
+
